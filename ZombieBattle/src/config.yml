@@ -1,0 +1,21 @@
+#enter the time between each zombie spawns
+timeBetweenZombies: 3
+
+#enter the radious around starting player that will be checked for aditional players
+playerRadius: 25
+
+#Determine whether or not to clear players' inventory at the start
+clearInventory: true
+
+#Set gamemode (survival/adventure)
+gamemode: survival
+
+setNight : true
+
+#enter coordinates where Zombies will spawn
+# format: coord#: represents a coordinate, add each number in the correct order below
+coordinates:
+   - -211, 73, -59
+   - -211, 73, -98
+   - -139, 73, -98
+   - -140, 73, -59

@@ -1,0 +1,12 @@
+name: ZombieBattle
+main: zombieBattle.Main
+author: Andrew Trackim
+version: 1.0
+description: creates zombie battle lol
+commands:
+  zombieBattleStart :
+    description: This messages the player with a description of what the plugin does. 
+    aliases: [start, zombieStart]
+  zombieBattleStop :
+    description: This stops spawning zombies
+    aliases: [stop, zombieStop]
